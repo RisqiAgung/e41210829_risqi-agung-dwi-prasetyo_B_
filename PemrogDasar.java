@@ -4,6 +4,7 @@ import java.util.Scanner;
 
  class PemrogDasar {
      
+     //kontol
      static void gigi1 (){
          System.out.println("naik dengan lancar");
      }
